@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-vmail",
+  "compatibility_date": "2026-06-27",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "vmail-db",
+      "database_id": "ThVLbLwBnMHMyWp5bUz-158w-7sw8-9swz-ThVLbLwBnMyWp5bUzY"
+    }
+  ]
+}
